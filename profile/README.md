@@ -1,6 +1,6 @@
-![Direct Effects Multiplicative Inference](./assets/demi-welcome-banner.png)
-
 # Welcome to DEMI 👋
+
+![Direct Effects Multiplicative Inference](./assets/demi-welcome-banner.png)
 
 ## What is DEMI?
 
