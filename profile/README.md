@@ -26,7 +26,7 @@ method to adapt to outcomes with different amounts of available data.
 <br>
 
 <a id="demi-ecosystem"></a>
-<img src="./assets/title-demi-ecosystem.svg" alt="DEMI Ecosystem" width="760">
+<img src="./assets/title-demi-ecosystem.svg" alt="DEMI Ecosystem" width="560">
 
 ### DEMI Core
 
