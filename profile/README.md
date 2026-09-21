@@ -91,7 +91,7 @@ develop.
 <a id="projects-using-demi"></a>
 <img src="./assets/title-projects-using-demi.svg" alt="Projects Using DEMI" width="760">
 
-### Antidepressant Response Prediction
+### [Antidepressant Response Prediction](https://github.com/Direct-Effects-Multiplicative-Inference/demi-mental-health-screening)
 
 [Better Antidepressants for You – Home](https://rapidimprovement.ai/) |
 [DEMI Service](https://github.com/Direct-Effects-Multiplicative-Inference/demi-service)
