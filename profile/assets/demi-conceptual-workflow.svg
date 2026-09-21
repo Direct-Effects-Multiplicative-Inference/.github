@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1040" viewBox="0 0 1200 1040" role="img" aria-labelledby="title desc">
+  <title id="title">Conceptual Direct Effects Multiplicative Inference workflow</title>
+  <desc id="desc">Population records create a pairwise knowledgebase. The knowledgebase supplies global temporal order and total effects, which are combined through direct-effect decomposition. Patient features and direct effects produce a raw DEMI score. An outcome prior and validated calibration can convert the score to a calibrated probability.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#46657f"/>
+    </marker>
+    <style>
+      .title { font: 700 32px Arial, sans-serif; fill: #17324d; }
+      .subtitle { font: 400 17px Arial, sans-serif; fill: #4b657a; }
+      .label { font: 700 20px Arial, sans-serif; fill: #17324d; text-anchor: middle; }
+      .small { font: 400 16px Arial, sans-serif; fill: #35536b; text-anchor: middle; }
+      .arrow { fill: none; stroke: #46657f; stroke-width: 3; marker-end: url(#arrow); }
+      .box { stroke-width: 2.2; rx: 18; ry: 18; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="1040" fill="#ffffff"/>
+  <text x="600" y="50" class="title" text-anchor="middle">How DEMI Works</text>
+  <text x="600" y="82" class="subtitle" text-anchor="middle">From population-level pairwise relationships to an individual outcome estimate</text>
+
+  <rect x="340" y="115" width="520" height="92" class="box" fill="#eaf3f8" stroke="#204b6f"/>
+  <text x="600" y="151" class="label">Population records</text>
+  <text x="600" y="180" class="small">First occurrences and co-occurrence</text>
+
+  <path d="M600 207 L600 250" class="arrow"/>
+  <rect x="315" y="252" width="570" height="100" class="box" fill="#dcecf4" stroke="#204b6f"/>
+  <text x="600" y="291" class="label">Pairwise knowledgebase</text>
+  <text x="600" y="321" class="small">2x2 counts and temporal-precedence statistics</text>
+
+  <path d="M470 352 L345 411" class="arrow"/>
+  <path d="M730 352 L855 411" class="arrow"/>
+
+  <rect x="110" y="414" width="470" height="105" class="box" fill="#fff2cc" stroke="#997a00"/>
+  <text x="345" y="455" class="label">1. Global temporal order</text>
+  <text x="345" y="486" class="small">Earlier-to-later feature sequence</text>
+
+  <rect x="620" y="414" width="470" height="105" class="box" fill="#fff2cc" stroke="#997a00"/>
+  <text x="855" y="455" class="label">2. Total effects</text>
+  <text x="855" y="486" class="small">Log odds ratios from pairwise counts</text>
+
+  <path d="M345 519 L470 585" class="arrow"/>
+  <path d="M855 519 L730 585" class="arrow"/>
+
+  <rect x="300" y="587" width="600" height="110" class="box" fill="#fce4d6" stroke="#a34b16"/>
+  <text x="600" y="631" class="label">3. Direct-effect decomposition</text>
+  <text x="600" y="663" class="small">Remove contributions operating through downstream variables</text>
+
+  <path d="M600 697 L600 783" class="arrow"/>
+
+  <rect x="45" y="747" width="390" height="110" class="box" fill="#e2f0d9" stroke="#47752b"/>
+  <text x="240" y="790" class="label">Patient-observed features</text>
+  <text x="240" y="822" class="small">Present, measured absent, or missing</text>
+  <path d="M435 802 L488 802" class="arrow"/>
+
+  <rect x="490" y="747" width="430" height="110" class="box" fill="#d9ead3" stroke="#47752b"/>
+  <text x="705" y="790" class="label">4. Multiplicative aggregation</text>
+  <text x="705" y="822" class="small">Raw DEMI score</text>
+
+  <path d="M705 857 L705 894" class="arrow"/>
+
+  <rect x="800" y="894" width="355" height="105" class="box" fill="#eadcf8" stroke="#6b3a8e"/>
+  <text x="977" y="936" class="label">Outcome prior + calibration</text>
+  <text x="977" y="967" class="small">Target-specific and validated</text>
+  <path d="M800 947 L750 947" class="arrow"/>
+
+  <rect x="300" y="894" width="450" height="105" class="box" fill="#d9e2f3" stroke="#334e82"/>
+  <text x="525" y="936" class="label">Predicted outcome</text>
+  <text x="525" y="967" class="small">Raw score or calibrated probability</text>
+</svg>
