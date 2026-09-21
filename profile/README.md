@@ -31,8 +31,7 @@ method to adapt to outcomes with different amounts of available data.
 ### DEMI Core
 
 [GitHub](https://github.com/Direct-Effects-Multiplicative-Inference/demi) |
-[API Documentation](https://github.com/Direct-Effects-Multiplicative-Inference/demi/blob/main/docs/API.md) |
-[Tutorials](https://github.com/Direct-Effects-Multiplicative-Inference/demi-tutorials)
+[API Documentation](https://github.com/Direct-Effects-Multiplicative-Inference/demi/blob/main/docs/API.md) 
 
 <details>
 <summary>▶ Learn more</summary>
@@ -53,8 +52,7 @@ The algorithm is associated with pending U.S. Patent Application No.
 ### DEMI Database
 
 [GitHub](https://github.com/Direct-Effects-Multiplicative-Inference/demi-database) |
-[Database Contract](https://github.com/Direct-Effects-Multiplicative-Inference/demi-database/blob/main/docs/DATABASE_SCHEMA.md) |
-[Temporal Order](https://github.com/Direct-Effects-Multiplicative-Inference/demi-database/blob/main/docs/TEMPORAL_ORDER.md)
+[Database Contract](https://github.com/Direct-Effects-Multiplicative-Inference/demi-database/blob/main/docs/DATABASE_SCHEMA.md) 
 
 <details>
 <summary>▶ Learn more</summary>
