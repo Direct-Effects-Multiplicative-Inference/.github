@@ -28,7 +28,7 @@ method to adapt to outcomes with different amounts of available data.
 <a id="demi-ecosystem"></a>
 <img src="./assets/title-demi-ecosystem.svg" alt="DEMI Ecosystem" width="760">
 
-### [DEMI Core](https://github.com/Direct-Effects-Multiplicative-Inference/demi)
+### [DEMI Core]
 
 [GitHub](https://github.com/Direct-Effects-Multiplicative-Inference/demi) |
 [API Documentation](https://github.com/Direct-Effects-Multiplicative-Inference/demi/blob/main/docs/API.md) |
@@ -50,7 +50,7 @@ The algorithm is associated with pending U.S. Patent Application No.
 
 </details>
 
-### [DEMI Database](https://github.com/Direct-Effects-Multiplicative-Inference/demi-database)
+### [DEMI Database]
 
 [GitHub](https://github.com/Direct-Effects-Multiplicative-Inference/demi-database) |
 [Database Contract](https://github.com/Direct-Effects-Multiplicative-Inference/demi-database/blob/main/docs/DATABASE_SCHEMA.md) |
@@ -71,7 +71,7 @@ access. Database access and software access are governed separately.
 
 </details>
 
-### [DEMI Tutorials](https://github.com/Direct-Effects-Multiplicative-Inference/demi-tutorials)
+### [DEMI Tutorials]
 
 [GitHub](https://github.com/Direct-Effects-Multiplicative-Inference/demi-tutorials) |
 [Getting Started](https://github.com/Direct-Effects-Multiplicative-Inference/demi-tutorials#planned-tutorials)
@@ -91,10 +91,10 @@ develop.
 <a id="projects-using-demi"></a>
 <img src="./assets/title-projects-using-demi.svg" alt="Projects Using DEMI" width="760">
 
-### [Antidepressant Response Prediction](https://github.com/Direct-Effects-Multiplicative-Inference/demi-mental-health-screening)
+### [Antidepressant Response Prediction]
 
 [Better Antidepressants for You – Home](https://rapidimprovement.ai/) |
-[DEMI Service](https://github.com/Direct-Effects-Multiplicative-Inference/demi-service)
+[DEMI Service](https://github.com/Direct-Effects-Multiplicative-Inference/demi-mental-health-screening)
 
 <details>
 <summary>▶ Learn more</summary>
@@ -115,7 +115,7 @@ the views of PCORI, its Board of Governors, or its Methodology Committee.
 
 </details>
 
-### [DEMI Mental Health Screening](https://github.com/Direct-Effects-Multiplicative-Inference/demi-mental-health-screening)
+### [DEMI Mental Health Screening]
 
 [GitHub](https://github.com/Direct-Effects-Multiplicative-Inference/demi-mental-health-screening)
 
@@ -128,7 +128,7 @@ for mental-health conditions.
 
 </details>
 
-### [DEMI Rare Cancer Screening](https://github.com/Direct-Effects-Multiplicative-Inference/demi-rare-cancer-screening)
+### [DEMI Rare Cancer Screening]
 
 [GitHub](https://github.com/Direct-Effects-Multiplicative-Inference/demi-rare-cancer-screening)
 
@@ -141,7 +141,7 @@ validation with independent clinical data sources.
 
 </details>
 
-### [DEMI Common Cancer Screening](https://github.com/Direct-Effects-Multiplicative-Inference/demi-common-cancer-screening)
+### [DEMI Common Cancer Screening]
 
 [GitHub](https://github.com/Direct-Effects-Multiplicative-Inference/demi-common-cancer-screening)
 
@@ -154,7 +154,7 @@ prevalent cancers, including cross-database validation.
 
 </details>
 
-### [DEMI Research Contributions](https://github.com/Direct-Effects-Multiplicative-Inference/demi-research-contributions)
+### [DEMI Research Contributions]
 
 [GitHub](https://github.com/Direct-Effects-Multiplicative-Inference/demi-research-contributions)
 
