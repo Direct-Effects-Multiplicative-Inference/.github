@@ -89,7 +89,7 @@ develop.
 <br>
 
 <a id="projects-using-demi"></a>
-<img src="./assets/title-projects-using-demi.svg" alt="Projects Using DEMI" width="760">
+## Projects Using DEMI
 
 ### Antidepressant Response Prediction
 
@@ -173,7 +173,7 @@ approved for clinical screening.
 <br>
 
 <a id="publications"></a>
-<img src="./assets/title-publications.svg" alt="Publications" width="760">
+## Publications
 
 [Publication Index](https://github.com/Direct-Effects-Multiplicative-Inference/demi-publications) |
 [Citation Information](https://github.com/Direct-Effects-Multiplicative-Inference/demi-publications#publication-index)
