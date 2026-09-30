@@ -30,7 +30,7 @@ method to adapt to outcomes with different amounts of available data.
 
 ### DEMI Core
 
-[GitHub](https://github.com/Direct-Effects-Multiplicative-Inference/demi) |
+[GitHub](https://github.com/Direct-Effects-Multiplicative-Inference/demi-core-v17.0.0)|
 [API Documentation](https://github.com/Direct-Effects-Multiplicative-Inference/demi/blob/main/docs/API.md) 
 
 <details>
